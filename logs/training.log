@@ -26,3 +26,10 @@
 2025-11-03 23:04:16,155 - INFO - XGBoost model saved to models/xgb_model.pkl
 2025-11-03 23:04:16,162 - INFO - XGBoost accuracy: 0.7836
 2025-11-03 23:04:16,162 - INFO - Training process completed.
+2025-11-04 22:01:01,646 - INFO - Mode: DEBUG – train/test split 80/20
+2025-11-04 22:01:01,656 - INFO - Scaler saved to models\scaler.pkl
+2025-11-04 22:01:01,670 - INFO - Baseline model saved to models/baseline_model.pkl
+2025-11-04 22:01:01,671 - INFO - Baseline accuracy: 0.7398
+2025-11-04 22:01:01,730 - INFO - XGBoost model saved to models/xgb_model.pkl
+2025-11-04 22:01:01,733 - INFO - XGBoost accuracy: 0.7836
+2025-11-04 22:01:01,733 - INFO - Training process completed.
